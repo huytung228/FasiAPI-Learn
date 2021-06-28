@@ -1,2 +1,4 @@
 # Venv python
 fast-api-venv
+__pycache__
+.vscode
